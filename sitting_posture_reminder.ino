@@ -22,7 +22,7 @@ void setup() {
   pinMode(A1, OUTPUT);
   pinMode(A0, INPUT);
   pinMode(4, OUTPUT); 
-
+}
 
 void loop() {
   item = checkdistance_A1_A0();
